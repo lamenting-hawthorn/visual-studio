@@ -1,4 +1,4 @@
-# Threetone Visual Studio 🎨
+# \ Visual Studio 🎨
 
 > **The ultimate visual skill for Antigravity AI.** A unified toolkit for creating Slack-optimized animated GIFs, algorithmic generative art (p5.js), and museum-quality static canvas designs, all styled with Anthropic/Threetone brand guidelines.
 
